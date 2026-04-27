@@ -1,3 +1,3 @@
-# point-of-sales-desktop-releases
+# point-of-sales-desktop-setup
 
-Public binary releases for Matgark POS desktop installer.
+Public binary releases for Point of Sales desktop setup.
